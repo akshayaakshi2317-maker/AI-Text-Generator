@@ -22,10 +22,6 @@ The application takes a user's input text and generates additional text using a 
 - 🤗 Hugging Face Transformers
 - 🔥 PyTorch
 
-## 📸 Application Screenshot
-<img width="1209" height="784" alt="smart ai" src="https://github.com/user-attachments/assets/af3a2682-215a-457f-83d8-395d59b1ec0b" />
-<img width="1114" height="535" alt="smart ai output" src="https://github.com/user-attachments/assets/258523cb-fbc7-4bea-9ceb-d9d78b8c6c14" />
-
 ## 🤖 AI Model Used
 
 **Model Name:** `EleutherAI/gpt-neo-125M`
@@ -38,13 +34,16 @@ The application takes a user's input text and generates additional text using a 
 
 GPT-Neo 125M is a pretrained Transformer language model used to generate text based on the user's input prompt. It is a relatively lightweight model suitable for this Streamlit application.
 
-### ⚙️ Model Usage
+### 🎯 Why This Model?
 
-```python
-generator = pipeline(
-    "text-generation",
-    model="EleutherAI/gpt-neo-125M"
-)
+- 🔹 Low parameter count
+- 🔹 Suitable for Text Generation
+- 🔹 Easy to integrate with Hugging Face Transformers
+- 🔹 Suitable for a lightweight Streamlit application
+
+## 📸 Application Screenshot
+<img width="1209" height="784" alt="smart ai" src="https://github.com/user-attachments/assets/af3a2682-215a-457f-83d8-395d59b1ec0b" />
+<img width="1114" height="535" alt="smart ai output" src="https://github.com/user-attachments/assets/258523cb-fbc7-4bea-9ceb-d9d78b8c6c14" />
 
 ## 🔄 Project Workflow
 
