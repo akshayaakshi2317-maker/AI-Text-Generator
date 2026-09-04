@@ -52,10 +52,6 @@ generator = pipeline(
 6. ✨ The generated text is extracted from the model output.
 7. 🌐 The generated text is displayed in the Streamlit web application.
 
-## 📸 Application Screenshot
-<img width="1209" height="784" alt="smart ai" src="https://github.com/user-attachments/assets/af3a2682-215a-457f-83d8-395d59b1ec0b" />
-<img width="1114" height="535" alt="smart ai output" src="https://github.com/user-attachments/assets/258523cb-fbc7-4bea-9ceb-d9d78b8c6c14" />
-
 ## 🔗 Workflow
 
 ```text
@@ -72,3 +68,8 @@ generator = pipeline(
 🌐 Streamlit Web Application
       ↓
 📄 Generated Output
+
+## 📸 Application Screenshot
+<img width="1209" height="784" alt="smart ai" src="https://github.com/user-attachments/assets/af3a2682-215a-457f-83d8-395d59b1ec0b" />
+<img width="1114" height="535" alt="smart ai output" src="https://github.com/user-attachments/assets/258523cb-fbc7-4bea-9ceb-d9d78b8c6c14" />
+
