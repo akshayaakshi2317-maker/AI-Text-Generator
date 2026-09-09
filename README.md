@@ -15,7 +15,7 @@ The application takes a user's input text and generates additional text using a 
 -  Simple and user-friendly Streamlit interface
 -  Uses a pretrained Hugging Face model
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 -  Python
 -  Streamlit
