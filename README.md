@@ -42,8 +42,7 @@ GPT-Neo 125M is a pretrained Transformer language model used to generate text ba
 - 🔹 Suitable for a lightweight Streamlit application
 
 ##  Application Screenshot
-<img width="853" height="653" alt="screenshot (2)" src="https://github.com/user-attachments/assets/bbb1ce6c-066f-4561-8efb-2b887cbfca19" />
-
+<img width="873" height="643" alt="output-image" src="https://github.com/user-attachments/assets/41a4453a-d143-4bf7-b0c0-f60251ea1d73" />
 
 ##  Project Workflow
 
